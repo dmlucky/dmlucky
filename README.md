@@ -35,9 +35,9 @@ Research Interests: Medical Image Analysis, Brain Age Estimation, Alzheimer's Di
 
 | Experience | Description |
 |:-----------|:------------|
-| **ByteDance** (2026.03–06) | Designed MCP Tool orchestration & multi-turn dialogue state management for a conversational creator-search Agent; built offline evaluation harness driving prompt/reasoning iteration |
-| **NIO** (2025.10–2026.01) | Designed RAG-based AI diagnostic system for EV testing; built unified knowledge base (10K+ logs & cases); reduced avg. fault localization time by 40%+ |
-| **Xuntu Tech** (2025.06–09) | Built async LLM code review platform (FastAPI + Redis); designed dynamic model routing (GPT-4o/mini) achieving ~50% token cost savings; supported 1000+ automated MR reviews |
+| **ByteDance** | Designed MCP Tool orchestration & multi-turn dialogue state management for a conversational creator-search Agent; built offline evaluation harness driving prompt/reasoning iteration |
+| **NIO** | Designed RAG-based AI diagnostic system for EV testing; built unified knowledge base (10K+ logs & cases); reduced avg. fault localization time by 40%+ |
+| **Xuntu Tech** | Built async LLM code review platform (FastAPI + Redis); designed dynamic model routing (GPT-4o/mini) achieving ~50% token cost savings; supported 1000+ automated MR reviews |
 
 ---
 
