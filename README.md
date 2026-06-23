@@ -1,79 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:38bdf8,50:a78bfa,100:34d399&text=Hi,%20I'm%20dmlucky&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=42&desc=Building,%20learning,%20and%20shipping%20with%20code&descAlign=50&descAlignY=58" alt="Profile banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=50&lines=Hi%2C+I'm+Shan+Ding+%F0%9F%91%8B;Medical+AI+%C2%B7+LLM+Agent+%C2%B7+Brain+Imaging;Mixture-of-Experts+%C2%B7+VLM+%C2%B7+RAG" alt="Typing SVG" />
 
-### 👋 Welcome to my GitHub profile
+<br/>
 
-<p>
-  <a href="https://dmlucky.github.io/">
-    <img src="https://img.shields.io/badge/Blog-Go%20语言快速上手指南-38bdf8?style=for-the-badge&logo=go&logoColor=white" alt="Go blog" />
-  </a>
-  <a href="https://github.com/dmlucky/dmlucky.github.io">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-Live-34d399?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dmlucky&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
+[![GitHub Pages](https://img.shields.io/badge/Blog-Personal%20Site-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://dmlucky.github.io/)
+[![Go Guide](https://img.shields.io/badge/Go%20Guide-%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-10B981?style=for-the-badge&logo=go&logoColor=white)](https://dmlucky.github.io/go%E8%AF%AD%E8%A8%80%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.html)
+[![Email](https://img.shields.io/badge/Email-480134810%40qq.com-EA4335?style=for-the-badge&logo=qq&logoColor=white)](mailto:480134810@qq.com)
+
+</div>
+
+## About Me
+
+**M.S. student** @ [Southeast University (东南大学)](https://www.seu.edu.cn/), School of Computer Science & Engineering · Computer Technology
+
+Research Interests: Medical Image Analysis, Brain Age Estimation, Alzheimer's Disease Staging, Mixture-of-Experts, Vision-Language Models, LLM Agents, RAG
+
+**Research Intern** @ ByteDance (TikTok International) — AI Agent Development · Conversational Search Agent for Creator Matching
+
+---
+
+## Selected Publications
+
+| Paper | Venue | Role |
+|:------|:-----:|:----:|
+| [**DARE-Net: Diagnosis-Aware Routing Mixture-of-Experts for Accurate and Clinically Interpretable Brain Age Estimation**](https://github.com/AlphaWuSeu/DARE-Net) — Multi-task MoE with diagnosis-aware sparse routing & scheduled teacher forcing for brain age estimation (MAE 1.14 yr on ADNI) | Medical Image Analysis (MEDIA) · Under Review | 2nd Author |
+| **Patient-Conditioned Vision–Language Priors with Stable Mixture-of-Experts for Label-Efficient Alzheimer's MRI Staging** — Frozen VLM prior + scale-preserving MoE router + EMA teacher for ordinal AD staging under 10–50% labels (QWK 0.823 on ADNI) | MICCAI 2026 · Accepted | Co-author |
+
+---
+
+## Internship & Project Experience
+
+> Industry experience spanning AI Agent development, AI product design, and LLM infrastructure.
+
+| Experience | Description |
+|:-----------|:------------|
+| **ByteDance — AI Agent Developer Intern** (2026.03–06) | Designed MCP Tool orchestration & multi-turn dialogue state management for a conversational creator-search Agent; built offline evaluation harness driving prompt/reasoning iteration |
+| **NIO — AI Product Manager** (2025.10–2026.01) | Designed RAG-based AI diagnostic system for EV testing; built unified knowledge base (10K+ logs & cases); reduced avg. fault localization time by 40%+ |
+| **Xuntu Tech — LLM Developer Intern** (2025.06–09) | Built async LLM code review platform (FastAPI + Redis); designed dynamic model routing (GPT-4o/mini) achieving ~50% token cost savings; supported 1000+ automated MR reviews |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Blog
+## GitHub Stats
 
-<table>
-  <tr>
-    <td width="70%">
-      <h3>📘 Go 语言快速上手指南</h3>
-      <p>
-        一篇基于真实项目代码整理的 Go 入门博客，覆盖包管理、变量、函数、struct/interface、错误处理、泛型、goroutine、context、测试等核心知识点。
-      </p>
-      <p>
-        页面已做成博客形式，支持章节目录、阅读进度、明暗主题切换、关键词搜索、代码复制和打印导出。
-      </p>
-      <p>
-        <a href="https://dmlucky.github.io/"><strong>👉 点击阅读博客</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://dmlucky.github.io/go%E8%AF%AD%E8%A8%80%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.html">文章直达链接</a>
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://dmlucky.github.io/">
-        <img src="https://img.shields.io/badge/Open%20Blog-Go%20Guide-38bdf8?style=flat-square&logo=go&logoColor=white" alt="Open Go Guide" />
-      </a>
-      <br /><br />
-      <code>GitHub Pages</code>
-      <br />
-      <code>Go Notes</code>
-      <br />
-      <code>Project Practice</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 🧰 Tech Interests
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmlucky&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%" />
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Frontend-0f172a?style=flat-square&logo=html5&logoColor=E34F26" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square&logo=serverfault&logoColor=white" alt="Backend" />
-</p>
+<br/>
 
-## 📌 Quick Links
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmlucky&theme=transparent" width="70%" />
 
-- 🌐 Personal site: **https://dmlucky.github.io/**
-- 📘 Go guide: **https://dmlucky.github.io/go%E8%AF%AD%E8%A8%80%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.html**
-- 🗂️ Pages repo: **https://github.com/dmlucky/dmlucky.github.io**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmlucky&theme=transparent" width="34%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmlucky&theme=transparent" width="34%" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dmlucky&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlucky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-
-✨ Keep learning. Keep shipping. ✨
-
+<sub>Last updated: June 2026</sub>
 </div>
