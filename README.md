@@ -24,7 +24,7 @@ Research Interests: Medical Image Analysis, Brain Age Estimation, Alzheimer's Di
 
 | Paper | Venue | Role |
 |:------|:-----:|:----:|
-| [**DARE-Net: Diagnosis-Aware Routing Mixture-of-Experts for Accurate and Clinically Interpretable Brain Age Estimation**](https://github.com/AlphaWuSeu/DARE-Net) — Multi-task MoE with diagnosis-aware sparse routing & scheduled teacher forcing for brain age estimation (MAE 1.14 yr on ADNI) | Medical Image Analysis (MEDIA) · Under Review | 2nd Author |
+| [**DARE-Net: Diagnosis-Aware Routing Mixture-of-Experts for Accurate and Clinically Interpretable Brain Age Estimation**](https://github.com/AlphaWuSeu/DARE-Net) — Multi-task MoE with diagnosis-aware sparse routing & scheduled teacher forcing for brain age estimation (MAE 1.14 yr on ADNI) | Medical Image Analysis (MEDIA) · Under Review | Co-author |
 | **Patient-Conditioned Vision–Language Priors with Stable Mixture-of-Experts for Label-Efficient Alzheimer's MRI Staging** — Frozen VLM prior + scale-preserving MoE router + EMA teacher for ordinal AD staging under 10–50% labels (QWK 0.823 on ADNI) | MICCAI 2026 · Accepted | First Author |
 
 ---
