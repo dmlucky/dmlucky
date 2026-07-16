@@ -41,13 +41,15 @@ Research Interests: Medical Image Analysis, Brain Age Estimation, Alzheimer's Di
 
 ## Internship & Project Experience
 
-> Industry experience spanning AI Agent development, AI product design, and LLM infrastructure.
+> Industry experience across AIGC, AI strategy, AI Agents, RAG, LLMs, and MoE, with a first-author paper published in a CCF-B venue.
 
 | Experience | Description |
 |:-----------|:------------|
-| **ByteDance** | Designed MCP Tool orchestration & multi-turn dialogue state management for a conversational creator-search Agent; built offline evaluation harness driving prompt/reasoning iteration |
-| **NIO** | Designed RAG-based AI diagnostic system for EV testing; built unified knowledge base (10K+ logs & cases); reduced avg. fault localization time by 40%+ |
-| **Xuntu Tech** | Built async LLM code review platform (FastAPI + Redis); designed dynamic model routing (GPT-4o/mini) achieving ~50% token cost savings; supported 1000+ automated MR reviews |
+| **Tencent**<br/>IEG · Game Frontier Technology | Explored frontier game AI applications, focusing on AIGC-driven content workflows, AI strategy design, and prototype validation for next-generation interactive experiences |
+| **Baidu**<br/>MEG · Wenxin Assistant | Worked on Wenxin Assistant scenarios, supporting LLM-based assistant capabilities, prompt and agent workflow iteration, and product-oriented AI experience optimization |
+| **ByteDance**<br/>GMPT | Designed MCP tool orchestration and multi-turn dialogue state management for AI Agent workflows; built offline evaluation harnesses to support prompt and reasoning iteration |
+| **NIO Auto**<br/>Efficiency Platform | Designed a RAG-based AI diagnostic system for EV testing; built a unified knowledge base with 10K+ logs and cases; reduced average fault-localization time by 40%+ |
+| **Rabyte Shanghai Co., Ltd.**<br/>Algorithm | Built algorithm and LLM application pipelines, including async code-review workflows, dynamic model routing, and scalable evaluation support for AI engineering scenarios |
 
 ---
 
