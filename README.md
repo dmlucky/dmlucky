@@ -33,7 +33,7 @@ Research Interests: Medical Image Analysis, Brain Age Estimation, Alzheimer's Di
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**MICCAI Vibe Coding Demo**](https://github.com/dmlucky/MICCAI_vibe_coding) | Interactive web prototype inspired by **Patient-Conditioned Vision–Language Priors with Stable Mixture-of-Experts for Label-Efficient Alzheimer's MRI Staging**. The demo turns the paper idea into a runnable MRI analysis workflow with image upload, CN/MCI/AD staging visualization, brain-age style reporting, and region-attribution views. | Flask · Python · HTML/CSS/JS · Docker |
+| [**MICCAI demo展示**](file:///Users/dingshan/Desktop/MICCAI/index.html) | Interactive web prototype inspired by **Patient-Conditioned Vision–Language Priors with Stable Mixture-of-Experts for Label-Efficient Alzheimer's MRI Staging**. The demo turns the paper idea into a runnable MRI analysis workflow with image upload, CN/MCI/AD staging visualization, brain-age style reporting, and region-attribution views. | Flask · Python · HTML/CSS/JS · Docker |
 
 > From paper idea to product-shaped prototype: frozen VLM prior + scale-preserving MoE routing + EMA-teacher AD staging, presented as a vibe-coded medical AI demo.
 
